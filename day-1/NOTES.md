@@ -16,6 +16,8 @@
 
 Think of observability like "X-ray vision" into your systems. It’s especially critical in distributed systems and microservice architectures.
 
+![Introduction to Observability](images/Introduction-to-Observability.png)
+
 ---
 
 ## 🧱 The Three Pillars of Observability
@@ -75,6 +77,8 @@ Step-by-step journey of a request through the system.
 - Impossible to know when requests are failing
 - No root cause for performance issues
 - No ability to improve proactively
+
+![why-monitoring-why-observability](images/why-monitoring-why-observability.png)
 
 ---
 
