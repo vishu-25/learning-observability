@@ -163,6 +163,7 @@ The **EFK Stack** consists of three main components that work together to provid
 5. **Elasticsearch** indexes and stores logs
 6. **Kibana** provides UI for querying and visualization
 
+![Project Architecture](images/architecture.gif)
 ---
 
 ## 🛠️ EFK vs ELK: Understanding the Difference
