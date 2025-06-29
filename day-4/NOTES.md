@@ -94,6 +94,17 @@ const httpRequestDuration = new promClient.Histogram({
 - **Example**: `http_request_duration_summary_seconds`
 
 ---
+# 🎯 Project Objectives
+- 🛠️ **Implement Custom Metrics in Node.js Application**: Use the prom-client library to write and expose custom metrics in the Node.js application.
+- 🚨 **Set Up Alerts in Alertmanager**: Configure Alertmanager to send email notifications if a container crashes more than two times.
+- 📝 **Set Up Logging**: Implement logging on both application and cluster (node) logs for better observability using EFK stack(Elasticsearch, FluentBit, Kibana).
+- 📸 **Implement Distributed Tracing for Node.js Application**: Enhance observability by instrumenting the Node.js application for distributed tracing using Jaeger. enabling better performance monitoring and troubleshooting of complex, multi-service architectures.
+
+---
+# 🏠 Architecture
+![Project Architecture](images/architecture.gif)
+
+---
 
 ## 🛠️ Practical Implementation
 
